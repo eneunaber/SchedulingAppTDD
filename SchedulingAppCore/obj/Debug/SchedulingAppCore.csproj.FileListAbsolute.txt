@@ -1,0 +1,4 @@
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCore\bin\Debug\SchedulingAppCore.dll
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCore\bin\Debug\SchedulingAppCore.pdb
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCore\obj\Debug\SchedulingAppCore.dll
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCore\obj\Debug\SchedulingAppCore.pdb

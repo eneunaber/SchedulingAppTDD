@@ -1,0 +1,6 @@
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingApp\bin\Debug\SchedulingApp.exe.config
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingApp\bin\Debug\SchedulingApp.exe
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingApp\bin\Debug\SchedulingApp.pdb
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp.csprojResolveAssemblyReference.cache
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp.exe
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp.pdb

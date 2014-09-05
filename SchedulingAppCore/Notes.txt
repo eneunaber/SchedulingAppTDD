@@ -1,0 +1,17 @@
+﻿Goal:
+
+We are writting an application that will generate a schedule for a soccer tournament. Our tournament will use the Round Robin format (description & formula below) to schedule all of the games.
+
+Features of our application:
+* Generate a schedule to accomodate "n" teams
+* Accept dates for tournament timeframe and schedule games during those dates
+* Accept team conflicts and schedule around those conflicts
+* Assign teams to an available location
+
+
+Scheduling algorithm
+If n is the number of competitors, a pure round robin tournament requires n/2(n - 1) games. 
+If n is even, then in each of (n - 1) rounds, n/2 games can be run concurrently, 
+provided there exist sufficient resources (e.g. courts for a tennis tournament). 
+If n is odd, there will be n rounds, each with (n - 1)/2 games, 
+and one competitor having no game in that round.

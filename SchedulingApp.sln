@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulingApp", "SchedulingApp\SchedulingApp.csproj", "{8DEF0CF7-0D5A-4608-B6B8-147B4E36278E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulingAppCore", "SchedulingAppCore\SchedulingAppCore.csproj", "{EEE92AEC-1D7A-49F1-8A21-121ECEC88384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulingAppCoreTests", "SchedulingAppCoreTests\SchedulingAppCoreTests.csproj", "{7E222795-4D0D-4D54-83F5-CD69A48DB819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEF0CF7-0D5A-4608-B6B8-147B4E36278E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEF0CF7-0D5A-4608-B6B8-147B4E36278E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEF0CF7-0D5A-4608-B6B8-147B4E36278E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEF0CF7-0D5A-4608-B6B8-147B4E36278E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE92AEC-1D7A-49F1-8A21-121ECEC88384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE92AEC-1D7A-49F1-8A21-121ECEC88384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE92AEC-1D7A-49F1-8A21-121ECEC88384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE92AEC-1D7A-49F1-8A21-121ECEC88384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E222795-4D0D-4D54-83F5-CD69A48DB819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E222795-4D0D-4D54-83F5-CD69A48DB819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E222795-4D0D-4D54-83F5-CD69A48DB819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E222795-4D0D-4D54-83F5-CD69A48DB819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

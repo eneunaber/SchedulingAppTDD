@@ -1,0 +1,9 @@
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCoreTests\bin\Debug\SchedulingAppCoreTests.dll
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCoreTests\bin\Debug\SchedulingAppCoreTests.pdb
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCoreTests\bin\Debug\nunit.framework.dll
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCoreTests\bin\Debug\nunit.framework.xml
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCoreTests\obj\Debug\SchedulingAppCoreTests.csprojResolveAssemblyReference.cache
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCoreTests\obj\Debug\SchedulingAppCoreTests.dll
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCoreTests\obj\Debug\SchedulingAppCoreTests.pdb
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCoreTests\bin\Debug\SchedulingAppCore.dll
+c:\users\eric.neunaber\documents\visual studio 2012\Projects\SchedulingApp\SchedulingAppCoreTests\bin\Debug\SchedulingAppCore.pdb
