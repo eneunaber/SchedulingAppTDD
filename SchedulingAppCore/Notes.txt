@@ -27,5 +27,8 @@ Stories
         * A vs B
         * A vs C
         * B vs C
-* Balances Home vs Away distribution
+* Handles Edge cases
+    * Empty List
+    * Null - gracefully fails
+* Balances Home vs Away distribution 
     * acceptable on odd number of games for one team to have 1 more home game than some teams
