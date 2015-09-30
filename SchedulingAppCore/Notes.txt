@@ -1,4 +1,4 @@
-﻿Goal:
+Goal:
 
 We are writting an application that will generate a schedule for a soccer tournament. Our tournament will use the Round Robin format (description & formula below) to schedule all of the games.
 
@@ -15,3 +15,17 @@ If n is even, then in each of (n - 1) rounds, n/2 games can be run concurrently,
 provided there exist sufficient resources (e.g. courts for a tennis tournament). 
 If n is odd, there will be n rounds, each with (n - 1)/2 games, 
 and one competitor having no game in that round.
+https://en.wikipedia.org/wiki/Round-robin_tournament
+
+Stories
+* Takes in list of teams, returns a schedule
+* Given 3 teams generates a 3 game schedule
+* Given 6 teams generates a 15 game schedule
+* Given N teams generates a X game schedule
+* Assigns matchups for games
+    * 3 teams - A,B,C
+        * A vs B
+        * A vs C
+        * B vs C
+* Balances Home vs Away distribution
+    * acceptable on odd number of games for one team to have 1 more home game than some teams
