@@ -19,14 +19,32 @@ https://en.wikipedia.org/wiki/Round-robin_tournament
 
 Stories
 * Takes in list of teams, returns a schedule
-* Given 3 teams generates a 3 game schedule
-* Given 6 teams generates a 15 game schedule
-* Given N teams generates a X game schedule
-* Assigns matchups for games
+* Given 3 teams generates a 3 game schedule with correct matchups
     * 3 teams - A,B,C
         * A vs B
         * A vs C
         * B vs C
+* Given 6 teams generates a 15 game schedule with correct matchups
+    * 6 teams - A,B,C,D,E,F
+         * A vs C
+         * A vs D
+         * A vs E
+         * A vs F
+         * 
+         * B vs C
+         * B vs D
+         * B vs E
+         * B vs F
+         * 
+         * C vs D
+         * C vs E
+         * C vs F
+         * 
+         * D vs E
+         * D vs F
+         * 
+         * E vs F
+* Given N teams generates a X game schedule
 * Handles Edge cases
     * Empty List
     * Null - gracefully fails
