@@ -8,6 +8,6 @@ namespace SchedulingAppCore
 {
     public class Schedule
     {
-        List<Game> Games { get; set; }
+        Public List<Game> Games { get; set; }
     }
 }
